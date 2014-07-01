@@ -10,3 +10,5 @@ This is a repository created to learn how to use the GitHub client and host it u
 * Item 2
 
 **I am Bold**
+
+##[View this website](http://maereed.github.io/exercises)
