@@ -11,4 +11,3 @@ This is a repository created to learn how to use the GitHub client.
 
 **I am Bold**
 
-##[View this website](http://maereed.github.io/exercises)
